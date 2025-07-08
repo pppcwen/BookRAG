@@ -20,9 +20,11 @@ A Retrieval-Augmented Generation (RAG) system specialized for querying a well-kn
 
 ## References
 
-1. [Llamaindex Tutorial](https://docs.llamaindex.ai/en/stable/getting_started/starter_example_local/)
-2. [Novel Source](https://www.haodoo.net/?M=book&P=84#gsc.tab=0)
-3.```bibtex
+[Llamaindex Tutorial](https://docs.llamaindex.ai/en/stable/getting_started/starter_example_local/)
+
+[Novel Source](https://www.haodoo.net/?M=book&P=84#gsc.tab=0)
+
+```bibtex
 @misc{qwen3technicalreport,
   title={Qwen3 Technical Report},
   author={Qwen Team},
