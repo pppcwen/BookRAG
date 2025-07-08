@@ -20,4 +20,5 @@ A Retrieval-Augmented Generation (RAG) system specialized for querying a well-kn
 
 ## References
 
-
+1. https://docs.llamaindex.ai/en/stable/getting_started/starter_example_local/
+2. https://www.haodoo.net/?M=book&P=84#gsc.tab=0
